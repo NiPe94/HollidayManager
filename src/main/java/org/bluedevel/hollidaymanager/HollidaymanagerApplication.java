@@ -10,3 +10,4 @@ public class HollidaymanagerApplication {
 		SpringApplication.run(HollidaymanagerApplication.class, args);
 	}
 }
+
